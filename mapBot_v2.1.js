@@ -46,7 +46,7 @@ client 發 block_place
 forcedMoveFlag = true
 */
 
-const inputFile=fs.readFileSync("./Amitabha2.nbt");//輸入的nbt檔
+const inputFile=fs.readFileSync("./input.nbt");//輸入的nbt檔
 
 const referencePoint=[-2240,100,6079];//地圖左上角，往北一格，建築將會往x+,y+,z+發展[64,56,-65]
 const heightLimit=255;//建築高度上限 Overworld：319； Nether/The End 255
