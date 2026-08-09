@@ -67,7 +67,7 @@ const botArgs={
   auth:"microsoft",//登入帳號種類，使用Microsoft帳號
   host:"jp.mcfallout.net",//登入的伺服器
   //port:"52776",//伺服器的連接埠
-  username:"gimt29370120@outlook.com",
+  username:"",
   version:"1.21.11",//登入使用的Minecraft版本，有些版本會導致錯誤"1.21.11"1.20.4
   hideErrors:false,//true->隱藏錯誤
   physicsEnabled:false//false停用物理規則
